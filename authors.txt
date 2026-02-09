@@ -1,2 +1,6 @@
 Fabien Rozar
+<<<<<<< HEAD
 Adrien Lemettre
+=======
+Matthieu Hoarau
+>>>>>>> main
